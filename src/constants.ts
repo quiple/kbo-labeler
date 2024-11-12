@@ -1,10 +1,10 @@
 import type { Label } from './types.js';
 
-export const DELETE = '3laom3skgld2e';
+export const DELETE = '3laq35aojli2s';
 export const LABEL_LIMIT = 1;
 export const LABELS: Label[] = [
   {
-    rkey: '3laom2ohwal2e',
+    rkey: '3laq35afvtc22',
     identifier: 'hanwha-eagles',
     locales: [
       { lang: 'en', name: 'Hanwha Eagles', description: 'This user is a fan of Hanwha Eagles.'},
