@@ -1,4 +1,4 @@
-import { CommitCreateEvent, Jetstream } from '@skyware/jetstream';
+import { type CommitCreateEvent, Jetstream } from '@skyware/jetstream';
 import fs from 'node:fs';
 
 import { CURSOR_UPDATE_INTERVAL, DID, FIREHOSE_URL, METRICS_PORT, PORT, WANTED_COLLECTION } from './config.js';
